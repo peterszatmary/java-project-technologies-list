@@ -20,3 +20,13 @@ Java and non java technologies usefull for your project.
 - Vagrant
 - Typings
 - Spring data
+- Jacoco
+- PMD
+- Checkstyle
+- FindBugs
+- REST (Jersey)
+- Jsondoc
+- Bootstrap
+
+
+- Postman
